@@ -1,0 +1,35 @@
+# Git 相关文件
+.git
+.gitignore
+.github
+
+# Docker 相关文件
+Dockerfile
+.dockerignore
+
+# 文档和图片
+README.md
+LICENSE
+resources/preview.png
+
+# 编辑器和 IDE 文件
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# 临时文件和日志
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 构建输出目录
+build/
+dist/
+node_modules/
+
+# 备份文件
+*.bak
+*.backup
